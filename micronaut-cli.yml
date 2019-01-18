@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.type.converters
+---
+testFramework: junit
+sourceLanguage: java
